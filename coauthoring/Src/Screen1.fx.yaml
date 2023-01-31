@@ -27,15 +27,6 @@ Screen1 As screen:
         Y: =112
         ZIndex: =4
 
-        Image1 As image:
-            Height: =128
-            Image: =User().Image
-            OnSelect: =Select(Parent)
-            Width: =128
-            X: =16
-            Y: =(Parent.TemplateHeight / 2) - (Self.Height / 2)
-            ZIndex: =1
-
         Title1 As label:
             Height: =Self.Size * 1.8
             OnSelect: =Select(Parent)
