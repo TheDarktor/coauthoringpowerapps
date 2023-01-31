@@ -30,6 +30,7 @@ Screen1 As screen:
 
         Image1 As image:
             Height: =128
+            Image: =User().Image
             OnSelect: =Select(Parent)
             Width: =128
             X: =16
