@@ -1,22 +1,21 @@
 Screen1 As screen:
-    Fill: =RGBA(0, 134, 208, 1)
+    Fill: =RGBA(255, 255, 255, 1)
 
     Label1 As label:
         Text: ="Murillo Mariano"
-        X: =40
-        Y: =28
+        X: =76
+        Y: =404
         ZIndex: =1
 
     Label2 As label:
         Text: ="Text"
-        X: =40
-        Y: =101
+        X: =552
+        Y: =112
         ZIndex: =2
 
     Label3 As label:
         Text: ="Text"
-        X: =40
-        Y: =175
+        X: =16
         ZIndex: =3
 
     "Gallery1 As gallery.'BrowseLayout_Vertical_TwoTextOneImageVariant_ver4.0'":
@@ -27,15 +26,6 @@ Screen1 As screen:
         X: =677
         Y: =28
         ZIndex: =4
-
-        Image1 As image:
-            Height: =128
-            Image: =User().Image
-            OnSelect: =Select(Parent)
-            Width: =128
-            X: =16
-            Y: =(Parent.TemplateHeight / 2) - (Self.Height / 2)
-            ZIndex: =1
 
         Title1 As label:
             Height: =Self.Size * 1.8
