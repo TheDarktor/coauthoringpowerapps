@@ -25,7 +25,7 @@
       "delaycontrolrendering": true,
       "delayloadscreens": true,
       "disablecdsfileandlargeimage": false,
-      "disablecommandbar": false,
+      "disablecommandbar": true,
       "dynamicschema": false,
       "enableappembeddingux": false,
       "enablebarcodereaderfeature": false,
