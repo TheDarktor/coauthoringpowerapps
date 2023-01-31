@@ -8,7 +8,7 @@ Screen1 As screen:
         ZIndex: =1
 
     Label2 As label:
-        Text: ="Text"
+        Text: ="Faz o L"
         X: =40
         Y: =101
         ZIndex: =2
