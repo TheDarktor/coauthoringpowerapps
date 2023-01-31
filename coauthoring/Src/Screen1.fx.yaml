@@ -15,6 +15,6 @@ Screen1 As screen:
     Label3 As label:
         Text: ="Text"
         X: =40
-        Y: =175
+        Y: =256
         ZIndex: =3
 
