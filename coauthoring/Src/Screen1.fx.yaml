@@ -1,4 +1,5 @@
 Screen1 As screen:
+    Fill: =RGBA(0, 134, 208, 1)
 
     Label1 As label:
         Text: ="Text"
