@@ -1,25 +1,9 @@
 {
   "ComponentIndexes": {},
   "ControlUniqueGuids": {},
-  "ControlUniqueIds": {
-    "App": 1,
-    "Gallery1": 4,
-    "galleryTemplate1": 5,
-    "Icon1": 14,
-    "Icon1_1": 15,
-    "Label1": 10,
-    "Label2": 12,
-    "Label3": 11,
-    "NextArrow1": 8,
-    "Screen1": 3,
-    "Screen2": 13,
-    "Separator1": 9,
-    "Subtitle1": 7,
-    "Title1": 6
-  },
+  "ControlUniqueIds": {},
   "FunctionParamsInvariantScripts": {},
   "FunctionParamsInvariantScriptsOnInstances": {},
-  "HeaderLastSavedDateTimeUTC": "01/31/2023 15:25:35",
   "IsLegacyComponentAllowGlobalScopeCase": false,
   "LocalConnectionIDReferences": {},
   "LocalDatabaseReferencesAsEmpty": false,
@@ -27,68 +11,15 @@
   "LocalResourceRootPaths": {},
   "OrderComponentMetadata": {},
   "OrderComponentTemplate": {},
-  "OrderDataSource": {
-    "CustomGallerySample": 0
-  },
+  "OrderDataSource": {},
   "OrderGroupControls": {},
   "OrderPcfTemplate": {},
   "OrderTemplate": {},
-  "OrderXMLTemplate": {
-    "gallery": 0,
-    "icon": 2,
-    "label": 1,
-    "rectangle": 3
-  },
-  "OverridablePropertiesEntry": {
-    "App": {},
-    "Gallery1": {},
-    "galleryTemplate1": {},
-    "Icon1": {},
-    "Icon1_1": {},
-    "Label1": {},
-    "Label2": {},
-    "Label3": {},
-    "NextArrow1": {},
-    "Screen1": {},
-    "Screen2": {},
-    "Separator1": {},
-    "Subtitle1": {},
-    "Title1": {}
-  },
+  "OrderXMLTemplate": {},
+  "OverridablePropertiesEntry": {},
   "PCFDynamicSchemaForIRRetrievalEntry": {},
-  "PublishOrderIndices": {
-    "App": 0,
-    "Gallery1": 3,
-    "galleryTemplate1": 7,
-    "Icon1": 0,
-    "Icon1_1": 0,
-    "Label1": 4,
-    "Label2": 6,
-    "Label3": 5,
-    "NextArrow1": 10,
-    "Screen1": 2,
-    "Screen2": 12,
-    "Separator1": 11,
-    "Subtitle1": 9,
-    "Title1": 8
-  },
-  "ResourcesJsonIndices": {
-    "Image-SampleImage": 0
-  },
+  "PublishOrderIndices": {},
+  "ResourcesJsonIndices": {},
   "RuleScreenIdWithoutScreen": {},
-  "TemplateVersions": {},
-  "VolatileProperties": {
-    "AnalysisLoadTime": 0.0237999,
-    "ControlCount": {
-      "gallery": 1,
-      "galleryTemplate": 1,
-      "icon": 2,
-      "label": 5,
-      "rectangle": 1,
-      "screen": 2
-    },
-    "DeserializationLoadTime": 0.114353,
-    "ErrorCount": 6
-  },
-  "WasLocalDatabaseReferencesEmpty": true
+  "TemplateVersions": {}
 }
