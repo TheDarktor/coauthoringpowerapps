@@ -23,9 +23,18 @@ Screen1 As screen:
         Layout: =Layout.Vertical
         TemplatePadding: =0
         TemplateSize: =Min(160, Self.Height - 60)
-        X: =677
-        Y: =28
+        X: =702
+        Y: =112
         ZIndex: =4
+
+        Image1 As image:
+            Height: =128
+            Image: =User().Image
+            OnSelect: =Select(Parent)
+            Width: =128
+            X: =16
+            Y: =(Parent.TemplateHeight / 2) - (Self.Height / 2)
+            ZIndex: =1
 
         Title1 As label:
             Height: =Self.Size * 1.8
@@ -34,7 +43,7 @@ Screen1 As screen:
             PaddingLeft: =0
             PaddingRight: =0
             PaddingTop: =0
-            Text: ="FAZ  O L"
+            Text: =ThisItem.SampleHeading
             VerticalAlign: =VerticalAlign.Top
             Width: =Parent.TemplateWidth - Image1.Width - 104
             X: =Image1.X + Image1.Width + 24
