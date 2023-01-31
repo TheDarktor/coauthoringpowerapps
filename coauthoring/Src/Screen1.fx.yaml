@@ -2,13 +2,13 @@ Screen1 As screen:
     Fill: =RGBA(0, 134, 208, 1)
 
     Label1 As label:
-        Text: =User().FullName
+        Text: ="Text"
         X: =40
         Y: =28
         ZIndex: =1
 
     Label2 As label:
-        Text: ="123"
+        Text: ="Text"
         X: =40
         Y: =101
         ZIndex: =2
