@@ -1,2 +1,14 @@
 Screen2 As screen:
 
+    Icon1 As icon.CancelBadge:
+        Icon: =Icon.Add
+        X: =424
+        Y: =126
+        ZIndex: =1
+
+    Icon1_1 As icon.CancelBadge:
+        Icon: =Icon.CancelBadge
+        X: =232
+        Y: =176
+        ZIndex: =2
+
