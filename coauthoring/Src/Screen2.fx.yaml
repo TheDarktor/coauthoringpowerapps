@@ -8,7 +8,13 @@ Screen2 As screen:
 
     Icon1_1 As icon.CancelBadge:
         Icon: =Icon.CancelBadge
-        X: =232
-        Y: =176
+        X: =120
+        Y: =80
         ZIndex: =2
+
+    Icon1_2 As icon.CancelBadge:
+        Icon: =Icon.CancelBadge
+        X: =56
+        Y: =428
+        ZIndex: =3
 
