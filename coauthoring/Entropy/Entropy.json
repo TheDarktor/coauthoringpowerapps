@@ -1,9 +1,23 @@
 {
   "ComponentIndexes": {},
   "ControlUniqueGuids": {},
-  "ControlUniqueIds": {},
+  "ControlUniqueIds": {
+    "App": 1,
+    "Gallery1": 13,
+    "galleryTemplate1": 14,
+    "Image1": 15,
+    "Label1": 4,
+    "Label2": 12,
+    "Label3": 11,
+    "NextArrow1": 18,
+    "Screen1": 3,
+    "Separator1": 19,
+    "Subtitle1": 17,
+    "Title1": 16
+  },
   "FunctionParamsInvariantScripts": {},
   "FunctionParamsInvariantScriptsOnInstances": {},
+  "HeaderLastSavedDateTimeUTC": "01/31/2023 15:22:34",
   "IsLegacyComponentAllowGlobalScopeCase": false,
   "LocalConnectionIDReferences": {},
   "LocalDatabaseReferencesAsEmpty": false,
@@ -11,15 +25,65 @@
   "LocalResourceRootPaths": {},
   "OrderComponentMetadata": {},
   "OrderComponentTemplate": {},
-  "OrderDataSource": {},
+  "OrderDataSource": {
+    "CustomGallerySample": 0
+  },
   "OrderGroupControls": {},
   "OrderPcfTemplate": {},
   "OrderTemplate": {},
-  "OrderXMLTemplate": {},
-  "OverridablePropertiesEntry": {},
+  "OrderXMLTemplate": {
+    "gallery": 0,
+    "icon": 3,
+    "image": 1,
+    "label": 2,
+    "rectangle": 4
+  },
+  "OverridablePropertiesEntry": {
+    "App": {},
+    "Gallery1": {},
+    "galleryTemplate1": {},
+    "Image1": {},
+    "Label1": {},
+    "Label2": {},
+    "Label3": {},
+    "NextArrow1": {},
+    "Screen1": {},
+    "Separator1": {},
+    "Subtitle1": {},
+    "Title1": {}
+  },
   "PCFDynamicSchemaForIRRetrievalEntry": {},
-  "PublishOrderIndices": {},
-  "ResourcesJsonIndices": {},
+  "PublishOrderIndices": {
+    "App": 0,
+    "Gallery1": 0,
+    "galleryTemplate1": 0,
+    "Image1": 0,
+    "Label1": 3,
+    "Label2": 6,
+    "Label3": 5,
+    "NextArrow1": 0,
+    "Screen1": 2,
+    "Separator1": 0,
+    "Subtitle1": 0,
+    "Title1": 0
+  },
+  "ResourcesJsonIndices": {
+    "Image-SampleImage": 0
+  },
   "RuleScreenIdWithoutScreen": {},
-  "TemplateVersions": {}
+  "TemplateVersions": {},
+  "VolatileProperties": {
+    "AnalysisLoadTime": 0.0335689,
+    "ControlCount": {
+      "gallery": 1,
+      "galleryTemplate": 1,
+      "icon": 1,
+      "label": 5,
+      "rectangle": 1,
+      "screen": 1
+    },
+    "DeserializationLoadTime": 0.0682573,
+    "ErrorCount": 0
+  },
+  "WasLocalDatabaseReferencesEmpty": true
 }
